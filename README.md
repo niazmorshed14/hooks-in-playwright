@@ -15,4 +15,4 @@ Understanding and utilizing hooks effectively can greatly enhance the robustness
 3. hooks3.spec.js = In this test file we have implemented the same tests using beforeAll & afterAll hooks
 
 #### This image may help us better understand hooks
-<img src = "photo/hooks.jpg" width="600" title="hooks" />
+<img src = "tests/hooks.jpg" width="600" title="hooks" />
