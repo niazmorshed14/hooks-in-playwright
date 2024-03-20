@@ -10,6 +10,8 @@
 */
 
 // in this test file, we have implemented test without using any hooks
+//in the hooks2.spec.js file we have implemented the same test using beforeEach & afterEach hooks
+//in the hooks3.spec.js file we have implemented the same test using beforeAll & afterAll hooks
 
 import {test, expect} from '@playwright/test';
 
