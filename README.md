@@ -10,6 +10,9 @@ Understanding and utilizing hooks effectively can greatly enhance the robustness
    4. afterAll: This hook is executed only once after all the tests have been run
 
 ### Test files
-1. hooks1.spec.js = in this test file, we have implemented tests without using any hooks
-2. hooks2.spec.js = in this test file we have implemented the same tests using beforeEach & afterEach hooks
-3. hooks3.spec.js = in this test file we have implemented the same tests using beforeAll & afterAll hooks
+1. hooks1.spec.js = In this test file, we have implemented tests without using any hooks
+2. hooks2.spec.js = In this test file we have implemented the same tests using beforeEach & afterEach hooks
+3. hooks3.spec.js = In this test file we have implemented the same tests using beforeAll & afterAll hooks
+
+#### This image may help us better understand hooks
+<img src = "photo/hooks.jpg" width="600" title="hooks" />
